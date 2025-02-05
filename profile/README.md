@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-Thanks for checking us out! We've moved botzo to IE's Robotics and AI Lab official organization.
+Thanks for checking us out! We've moved botzo to IE Robotics and AI Lab's official github organization.
 
-You can now find us [here](https://github.com/IERoboticsAILab/botzo)
+You can now find us [here https://github.com/IERoboticsAILab/botzo](https://github.com/IERoboticsAILab/botzo)
